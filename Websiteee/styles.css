@@ -1,0 +1,35 @@
+body{
+    background-color: lavender;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, Serif;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: blueviolet;
+}
+a:visited{
+    color: darkblue;
+}
+img{
+    border: 2px solid blueviolet;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-family: 'Courier New', 'Times New Roman';
+    color: blueviolet;
+    background-color: violet;
+    border: dashed darkblue 5px;
+    font-size: 36px;
+    font-style: italic;
+}
